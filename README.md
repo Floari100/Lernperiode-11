@@ -6,3 +6,8 @@ Mit meinen Noten insgesamt stehe ich recht gut, in der Informatik habe ich durch
 - Ich möchte Heute meine Website, das als Portfolio dient, fertig stellen. Letzte verbesserungen machen und verlinkungen machen
 - Auch möchte ich mich Heute mit Bewerbungsschreiben beschäftigen und etwa 3-4 Motivationschreiben machen an verschiedene Unternehmen die ich mri aufgelistet hatte.
 - Ein Spiel anfangen zu programmieren um mein Github zu verbesseren, das Spiel muss nicht allzu kompliziert sein.
+
+## 22.08.2025 ##
+- Ich möchte heute die letzten verbesserungen an meiner Website machen und sie aufladen richtig.
+- Heute wieder möchte ich mich beschäftigen Bewerbungen zu schreiben und werde ein paar Motivationschreiben erledigen.
+- Schlussendlich noch Sachen wie LinkedIn, Lebenslauf und persönliches Portfolio bessern.
