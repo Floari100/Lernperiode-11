@@ -11,3 +11,9 @@ Mit meinen Noten insgesamt stehe ich recht gut, in der Informatik habe ich durch
 - Ich möchte heute die letzten verbesserungen an meiner Website machen und sie aufladen richtig.
 - Heute wieder möchte ich mich beschäftigen Bewerbungen zu schreiben und werde ein paar Motivationschreiben erledigen.
 - Schlussendlich noch Sachen wie LinkedIn, Lebenslauf und persönliches Portfolio bessern.
+
+## 19.09.2025 ##
+
+- Bewerbungsunterlagen (Motivationsschreiben) für ein IMS-Praktikum bei Lufthansa und novaCapta Schweiz verfassen und anpassen.
+- Mit Blender den Wiedereinstieg üben, ein erstes 3D-Modell (einfacher Stuhl) entwerfen und fertigstellen.
+- Anfangen auf meiner Website einen Auswahl-Assistenten umsetzen, bei dem Nutzer zwischen Angeboten (Logo, Produkt etc.) wählen und am Ende ein Kostenbeispiel erhalten.
