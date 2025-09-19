@@ -17,5 +17,6 @@ Mit meinen Noten insgesamt stehe ich recht gut, in der Informatik habe ich durch
 - Bewerbungsunterlagen (Motivationsschreiben) für ein IMS-Praktikum bei Lufthansa und novaCapta Schweiz verfassen und anpassen.
 - Mit Blender den Wiedereinstieg üben, ein erstes 3D-Modell (einfacher Stuhl) entwerfen und fertigstellen.
 - Anfangen auf meiner Website einen Auswahl-Assistenten umsetzen, bei dem Nutzer zwischen Angeboten (Logo, Produkt etc.) wählen und am Ende ein Kostenbeispiel erhalten.
-##Reflexion##
+
+Reflexion:
 Die ersten beiden Arbeitspakete sind gut verlaufen. Die Bewerbungsschreiben für Lufthansa und novaCapta Schweiz konnte ich erfolgreich anpassen und strukturieren. Auch der Wiedereinstieg in Blender ist gelungen, und das erste Modell, ein Stuhl, wurde wie geplant umgesetzt. Beim dritten Arbeitspaket, dem QuoteWizard für die Website, bin ich jedoch noch nicht weit gekommen, da mir bisher die nötige Zeit gefehlt hat.
