@@ -20,3 +20,21 @@ Mit meinen Noten insgesamt stehe ich recht gut, in der Informatik habe ich durch
 
 Reflexion:
 Die ersten beiden Arbeitspakete sind gut verlaufen. Die Bewerbungsschreiben für Lufthansa und novaCapta Schweiz konnte ich erfolgreich anpassen und strukturieren. Auch der Wiedereinstieg in Blender ist gelungen, und das erste Modell, ein Stuhl, wurde wie geplant umgesetzt. Beim dritten Arbeitspaket, dem QuoteWizard für die Website, bin ich jedoch noch nicht weit gekommen, da mir bisher die nötige Zeit gefehlt hat.
+
+## 26.09.2025 
+
+- QuoteWizard (Website) Stepper + Preislogik implementieren, Review-Seite bauen 
+- QuoteWizard deployen Repo aktualisieren (README, Screens), Branch mergen & Live stellen 
+- Blender Neues Modell „Schreibtischlampe“ – Blockout, UV-Unwrap, 1 Render 
+- Portfolio Projektseiten „QuoteWizard“ & „Lampe“ ergänzen, Links in Navbar
+- Bewerbungen 1 Motivationsschreiben Feinschliff & Versand 
+
+
+Reflexion über den Arbeitstag 
+
+Heute lag der Fokus auf dem QuoteWizard. Die Kernfunktionalität (Stepper, Preislogik, Review) steht und ist live, inklusive kurzer Doku im README. Das lief sauber durch und gibt meiner Seite echten Mehrwert. In Blender habe ich die Lampe als Blockout erstellt und einen ersten Test-Render gemacht; für UV-Feinschliff und Materialeinstellungen reichte die Zeit nicht. Die Portfolio-Ergänzungen sind zur Hälfte umgesetzt. Das geplante Motivationsschreiben musste ich verschieben. Insgesamt: gute Priorisierung, sichtbare Ergebnisse.
+
+
+Reflexion über die Lernperiode 
+
+Seit den Sommerferien habe ich meine Basis kontinuierlich ausgebaut und mehrere Ziele erreicht. Mein Portfolio ist online und wurde technisch und inhaltlich verbessert. In Richtung Bewerbungen habe ich strukturierte Motivationsschreiben erstellt und mein Dossier professionalisiert. Fachlich habe ich praktische Schwerpunkte gesetzt: Web (u. a. der fertige QuoteWizard mit Preislogik und Deployment) und 3D (Blender-Wiedereinstieg mit einem kompletten Stuhl sowie dem neuen Lampen-Projekt). Zusätzlich habe ich Git-Workflows konsequent angewendet (Branches, PRs, README, Screens), sodass meine Arbeiten nachvollziehbar und testbar sind. Insgesamt bin ich meiner Grobplanung treu geblieben und meinen Notenzielen nähergekommen (Ziel: 5.0 in M324 und 5.5 in M335). Nicht alles wurde vollständig abgeschlossen, aber die wichtigsten Etappen sind erreicht und sinnvoll dokumentiert – eine gute Grundlage für die nächsten Schritte.
