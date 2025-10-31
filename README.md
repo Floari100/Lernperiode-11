@@ -12,6 +12,25 @@ Mit meinen Noten insgesamt stehe ich recht gut, in der Informatik habe ich durch
 - Heute wieder möchte ich mich beschäftigen Bewerbungen zu schreiben und werde ein paar Motivationschreiben erledigen.
 - Schlussendlich noch Sachen wie LinkedIn, Lebenslauf und persönliches Portfolio bessern.
 
+
+## 29.08.2025 ##
+
+- Bewerbungsunterlagen weiter ausbauen: mindestens **ein Motivationsschreiben fertigstellen** und das **Bewerbungsdossier** (Lebenslauf, Portfolio, LinkedIn) nochmals prüfen und überarbeiten.  
+- Erste Ideen für ein **kleines Spielprojekt** sammeln, um bald mit der Umsetzung beginnen zu können.  
+- Kleine technische Verbesserungen an der **Portfolio-Website** umsetzen (z. B. Layout-Optimierungen oder neue Projekte einfügen).  
+
+## 05.09.2025 ##
+
+- Das **Spielprojekt starten** – grundlegende Struktur, Spiellogik und Design festlegen (z. B. einfaches 2D-Spiel).  
+- Weiter an **Blender** orientieren: Interface wieder kennenlernen, ein Testobjekt (z. B. Würfel oder Becher) modellieren, um sich einzuarbeiten.  
+- Bewerbungsphase fortsetzen: mindestens **eine neue Bewerbung abschicken** und bestehende Motivationsschreiben verfeinern.  
+
+## 12.09.2025 ##
+
+- Das begonnene **Spiel** weiterentwickeln (z. B. Bewegung, Kollision, Punktesystem) und erste Tests durchführen.  
+- In **Blender** ein etwas komplexeres Objekt beginnen (z. B. einen Stuhl oder eine Lampe) und Materialien ausprobieren.  
+- Das **Portfolio** auf der Website erweitern, um erste Zwischenergebnisse aus Spiel und Blender zu präsentieren.  
+
 ## 19.09.2025 ##
 
 - Bewerbungsunterlagen (Motivationsschreiben) für ein IMS-Praktikum bei Lufthansa und novaCapta Schweiz verfassen und anpassen.
