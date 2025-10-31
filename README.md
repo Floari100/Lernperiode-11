@@ -26,20 +26,7 @@ Die ersten beiden Arbeitspakete sind gut verlaufen. Die Bewerbungsschreiben für
 - Schulische Aufgaben der aktuellen Module abschließen und offene Punkte aus der letzten Lernperiode nacharbeiten.  
 - Mit einem neuen Blender-Projekt beginnen – zum Beispiel eine kleine Szene mit mehreren Objekten (z. B. Tisch, Lampe, Deko). Ziel: grundlegende Materialien und Licht richtig anwenden.  
 - Ein neues Mini-Game auf GitHub starten (z. B. kleines 2D-Spiel mit Bewegung und Punktesystem), um den Code-Workflow weiter zu üben.  
-
-
-## 03.10.2025 ##
-
-- Das begonnene Blender-Projekt verfeinern (Texturen, Licht, Kamera) und einen ersten fertigen Render posten oder ins Portfolio aufnehmen.  
-- Am Mini-Game weiterarbeiten: kleine Features ergänzen (z. B. Menü, Sound oder Score-Anzeige).  
-- Bewerbungsdokumente prüfen und 1–2 neue Firmen heraussuchen, bei denen du dich bewerben könntest.  
-
-
-## 10.10.2025 ##
-
-- Das Mini-Game fertigstellen (spielbar machen) und auf GitHub mit einem sauberen README und Screenshots veröffentlichen.  
-- Das Blender-Projekt abschließen, final rendern und dokumentieren (Render + Wireframe + kurze Beschreibung).  
-- Kurze persönliche Reflexion schreiben: Was lief gut, was möchtest du bis Ende Jahr verbessern oder vertiefen (z. B. Portfolio, Zeitmanagement, C#).  
+ 
 
 
 ## 26.09.2025 
